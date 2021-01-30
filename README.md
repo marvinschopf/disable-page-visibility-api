@@ -1,4 +1,6 @@
 # Disable Page Visibility API
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4HQ53)  
+
 Add-on to disable the Page Visibility API. 
 
 This prevents e.g. video conferencing systems from tracking whether you are currently in another window.
