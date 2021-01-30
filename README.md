@@ -1,5 +1,5 @@
 # Disable Page Visibility API
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4HQ53)  
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-green.png)](https://www.buymeacoffee.com/marvinschopf)
 
 Add-on to disable the Page Visibility API. 
 
