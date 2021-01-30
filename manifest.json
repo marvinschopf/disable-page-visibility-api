@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Disable Page Visibility API",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Marvin Schopf",
 	"description": "Add-on to disable the Page Visibility API. This prevents conferencing systems from tracking if you are currently in another window.",
 	"content_scripts": [
