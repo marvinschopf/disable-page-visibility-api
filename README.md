@@ -1,5 +1,5 @@
 # Disable Page Visibility API
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-green.png)](https://www.buymeacoffee.com/marvinschopf)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-green.png =100px)](https://www.buymeacoffee.com/marvinschopf)
 
 Add-on to disable the Page Visibility API. 
 
