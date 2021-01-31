@@ -3,7 +3,7 @@
 	"name": "Disable Page Visibility API",
     "version": "1.0.2",
     "author": "Marvin Schopf",
-	"description": "Prevent websites from tracking whether you are currently in another tab or window.",
+	"description": "Prevent websites from tracking whether you are currently in another tab/ window.",
 	"content_scripts": [
 		{
 			"matches": ["*://*/*"],
