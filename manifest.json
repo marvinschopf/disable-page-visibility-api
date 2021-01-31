@@ -1,17 +1,17 @@
 {
 	"manifest_version": 2,
 	"name": "Disable Page Visibility API",
-    "version": "1.0.3",
-    "author": "Marvin Schopf",
+	"version": "1.0.3",
+	"author": "Marvin Schopf",
 	"description": "Prevent websites from tracking whether you are currently in another tab/ window.",
 	"content_scripts": [
 		{
 			"matches": ["*://*/*"],
 			"js": ["disable.js"]
 		}
-    ],
-    "icons": {
-        "48": "icon.png",
-        "96": "icon@2x.png"
-    }
+	],
+	"icons": {
+		"48": "icon.png",
+		"96": "icon@2x.png"
+	}
 }
