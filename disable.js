@@ -1,6 +1,6 @@
 /**
  * Disable Page Visibility API
- * Copyright (C) 2021 Marvin Schopf
+ * Copyright (C) 2021-2022 Marvin Schopf
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
@@ -34,6 +34,14 @@ window.addEventListener(
 
 window.addEventListener(
 	"blur",
+	function (event) {
+		event.stopImmediatePropagation();
+	},
+	true
+);
+
+window.addEventListener(
+	"mouseleave",
 	function (event) {
 		event.stopImmediatePropagation();
 	},
